@@ -1,0 +1,14 @@
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\HashCheck\bin\Debug\netcoreapp3.1\HashCheck.exe
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\HashCheck\bin\Debug\netcoreapp3.1\HashCheck.deps.json
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\HashCheck\bin\Debug\netcoreapp3.1\HashCheck.runtimeconfig.json
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\HashCheck\bin\Debug\netcoreapp3.1\HashCheck.runtimeconfig.dev.json
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\HashCheck\bin\Debug\netcoreapp3.1\HashCheck.dll
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\HashCheck\bin\Debug\netcoreapp3.1\HashCheck.pdb
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\HashCheck\obj\Debug\netcoreapp3.1\HashCheck.csproj.AssemblyReference.cache
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\HashCheck\obj\Debug\netcoreapp3.1\HashCheck.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\HashCheck\obj\Debug\netcoreapp3.1\HashCheck.AssemblyInfoInputs.cache
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\HashCheck\obj\Debug\netcoreapp3.1\HashCheck.AssemblyInfo.cs
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\HashCheck\obj\Debug\netcoreapp3.1\HashCheck.csproj.CoreCompileInputs.cache
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\HashCheck\obj\Debug\netcoreapp3.1\HashCheck.dll
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\HashCheck\obj\Debug\netcoreapp3.1\HashCheck.pdb
+D:\BridgeLabzEdu\.NetPractivceProblems_BridgeLabz\HashCheck\obj\Debug\netcoreapp3.1\HashCheck.genruntimeconfig.cache
